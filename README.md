@@ -1,0 +1,1 @@
+# pack_of_training_yandex_practicum
